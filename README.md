@@ -56,7 +56,7 @@ In a new terminal, start Kafka:
 
 3. Create a Topic (optional for custom topics):
 
-.\bin\windows\kafka-topics.bat --create --topic products-topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+.\bin\windows\kafka-topics.bat --create --topic product_created --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
 
 
 4. Check Topic:
