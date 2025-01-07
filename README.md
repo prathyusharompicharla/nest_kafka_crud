@@ -90,7 +90,7 @@ Steps
 
 1. Clone the repository:
 
-git clone https://github.com/prathyusharompicharla/nest_crud
+git clone https://github.com/prathyusha2898/nest_kafka_crud/tree/nest_crud
 cd nestjs-kafka-crud
 
 
